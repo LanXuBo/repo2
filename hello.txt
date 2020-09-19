@@ -3,4 +3,8 @@
 3333333333333
 44444	
 5555
+
 复制clone修改hello.txt文件
+
+repoq1中修改hello.txt文件
+>>>>>>> 86d3363af7924a2b187af15e0b1a295d053d319a
